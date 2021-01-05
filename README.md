@@ -2,7 +2,7 @@
 This repository contains projects on web scraping
 ## Chuck Norris Joke
 
-The project focuses to extract jokes from Chuck Norris Api using ceratin ID already given in a csv.<br>
+The project focuses to extract jokes from Chuck Norris Api using certain ID already given in a csv.<br>
 Projects is done using Beautiful Soup.
 
 ## Book Scrapping 
